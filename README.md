@@ -21,7 +21,7 @@ This is the backend for **EzyMetrics**, a reporting and data integration service
 1. Clone the repository:
 
     ```bash
-    <a href="https://github.com/Mudaykirann/ezymetrics-backend">https://github.com/Mudaykirann/ezymetrics-backend</a>
+    git clone https://github.com/Mudaykirann/ezymetrics-backend
     ```
 
 3. Navigate into the project directory:
@@ -121,7 +121,7 @@ This is the backend for **EzyMetrics**, a reporting and data integration service
 2. The API will be running at:
 
     ```
-    http://localhost:3100
+    http://localhost:<PORT_ADDRESS>
     ```
 
 ## License
